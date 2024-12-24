@@ -7,16 +7,21 @@ Ticket Sales Automation is a user-friendly application designed to manage ticket
 - **User Login:**
 
   - Users can log in using their credentials. 🔒👤✅
+    ![image](https://github.com/user-attachments/assets/d9894dc0-938d-461b-9c0a-254dcb3b7c77)
+
 
 - **Shows and Sessions Management:**
 
   - After login, users are presented with a page displaying available shows and their sessions.
   - Users can select a show and session to proceed. 🎭📅🎟️
+  - ![image](https://github.com/user-attachments/assets/f886dbd2-61b8-47ff-becc-db40371b67cf)
+
 
 - **Seat Selection and Pricing:**
 
   - A seat selection page allows users to choose their seats.
   - Displays the selected seats and the total price. 🪑💵📊
+![image](https://github.com/user-attachments/assets/4eb49a1a-e8ab-4af8-b7f8-51241925b1d7)
 
 - **Customer Details and Sales:**
 
@@ -35,7 +40,7 @@ Ticket Sales Automation is a user-friendly application designed to manage ticket
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ticketsalesautomation.git
+   git clone https://github.com/kubra-bulut/ticketsalesautomation.git
    ```
 
 2. Navigate to the project directory:
