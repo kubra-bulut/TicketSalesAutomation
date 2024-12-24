@@ -7,7 +7,7 @@ Ticket Sales Automation is a user-friendly application designed to manage ticket
 - **User Login:**
 
   - Users can log in using their credentials. 🔒👤✅
-   <img src="https://github.com/user-attachments/assets/d9894dc0-938d-461b-9c0a-254dcb3b7c77" width="300" height="200" />
+   <img src="https://github.com/user-attachments/assets/d9894dc0-938d-461b-9c0a-254dcb3b7c77" width="300" height="300" />
 
 
 
