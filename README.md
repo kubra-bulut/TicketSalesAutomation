@@ -11,17 +11,17 @@ Ticket Sales Automation is a user-friendly application designed to manage ticket
 
 
 
-- **Shows and Sessions Management:**🎭📅
+- **Shows and Sessions Management:** 🎭📅
 
   - After login, users are presented with a page displaying available shows and their sessions.
   - Users can select a show and session to proceed.
   <img src="https://github.com/user-attachments/assets/f886dbd2-61b8-47ff-becc-db40371b67cf" width="300" height="300" />
 
 
-- **Seat Selection and Pricing:**🎟️
+- **Seat Selection and Pricing:** 🎟️
 
   - A seat selection page allows users to choose their seats.
-  - Displays the selected seats and the total price. 🪑💵📊
+  - Displays the selected seats and the total price. 
   <img src="https://github.com/user-attachments/assets/4eb49a1a-e8ab-4af8-b7f8-51241925b1d7" width="300" height="300" />
 
 - **Customer Details and Sales:**
@@ -29,12 +29,12 @@ Ticket Sales Automation is a user-friendly application designed to manage ticket
   - Customers can enter their email address before completing the purchase.
   - Upon successful ticket purchase:
     - An email confirmation is sent to the customer.
-    - The sales information is saved as a PDF on the local machine. 📧📂🖨️
+    - The sales information is saved as a PDF on the local machine. 
 
 - **Sales Management:**
 
   - Users can list all completed sales.
-  - Includes options to delete or update existing sales. 📋🗑️✏️
+  - Includes options to delete or update existing sales. 
 
 ## Installation 💻🔧🚀
 
